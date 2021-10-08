@@ -2,7 +2,7 @@
 - I’m interested in software development in general but mostly mobile development and cloud computing.
 - I’m currently learning advanced iOS topics 📱
 - I’m looking to collaborate on anything that will make a good impact into world 🌎
-- You can reach me on GitHub or email 📫
+- You can reach me on GitHub or email (frankko94@hotmail.com) 📫
 
 <!---
 pako-cr/pako-cr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
