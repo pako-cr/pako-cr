@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything that will make a good impact into world 🌎**
 
-- 💬 Ask me about **swift, flutter, js**
+- 💬 Ask me about **swift, ios, mobile development**
 
 - 📫 How to reach me **frankko94@hotmail.com**
 
